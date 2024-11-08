@@ -17,7 +17,7 @@ UnunenniumA on the other hand doesn't disable system tools. Destroy the MBR and 
 
 Well, I have seen N17Pro3426 skidding my shaders from 6kals and zip. (shit malwares). and that makes me sad. So, a basic explaining, I made this trojan Open Source to make my subscribers look how it's made a GDI-Trojan and to make people learn GDI basics, NOT FOR SHIT17PRO3426!!!
 
-🤝 Credits
+# 🤝 Credits
 NotCCR - The OG Ununennium Creator.
 Comium97 - Helped me with NTSTATUS crasher.
 And thanks to whoever is reading this :D
